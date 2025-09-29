@@ -1,7 +1,7 @@
 /*Parte 2*/
 
 UPDATE produtos
-SET preco = preco * 0.80
+SET preco = preco * 0.8
 WHERE categoria = 'Cabelos';
 SELECT * FROM produtos;
 
@@ -15,7 +15,7 @@ WHERE marca = 'Vichy';
 SELECT * FROM produtos;
 
 UPDATE produtos
-SET preco = preco * 0.90
+SET preco = preco * 0.9
 WHERE estoque > 100;
 SELECT * FROM produtos;
 
