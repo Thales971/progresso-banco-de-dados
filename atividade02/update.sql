@@ -2,7 +2,7 @@
 
 UPDATE produtos
 SET preco = preco * 0.80
-WHERE categoria = 'Óleos e Demaquilantes';
+WHERE categoria = 'Cabelos';
 SELECT * FROM produtos;
 
 UPDATE produtos
@@ -22,7 +22,7 @@ SELECT * FROM produtos;
 /*bonus*/
 UPDATE produtos
 SET preco = preco * 0.70
-WHERE categoria = 'Protetor Solar';
+WHERE categoria = 'Skincare';
 SELECT * FROM produtos;
 
 UPDATE produtos
