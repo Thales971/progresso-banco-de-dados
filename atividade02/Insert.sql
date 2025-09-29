@@ -94,5 +94,4 @@ VALUES
 ('Base Fit Me', 'Maybelline', 45.90, 'Skincare', 50);
 
 
-
 SELECT * FROM produtos;
