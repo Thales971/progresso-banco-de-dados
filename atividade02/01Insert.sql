@@ -66,3 +66,5 @@ VALUES
 ('Demaquilante Bifásico para Olhos', 'Nivea', 32.50, 'Óleos e Demaquilantes', 250);
 
 SELECT * FROM produtos;
+
+
